@@ -15,6 +15,7 @@ export const elementStrings = {
     loader: 'loader'
 }
 // this is comment
+//this is another comment
 export const renderLoader = parent => {
     const loader = `
      <div class="${elementStrings.loader}">
