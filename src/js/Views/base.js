@@ -16,6 +16,8 @@ export const elementStrings = {
 }
 // this is comment
 //this is another comment
+
+// this is a fetch comment
 export const renderLoader = parent => {
     const loader = `
      <div class="${elementStrings.loader}">
