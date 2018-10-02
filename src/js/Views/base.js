@@ -14,7 +14,7 @@ export const elements = {
 export const elementStrings = {
     loader: 'loader'
 }
-
+// this is comment
 export const renderLoader = parent => {
     const loader = `
      <div class="${elementStrings.loader}">
